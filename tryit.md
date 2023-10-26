@@ -1,6 +1,6 @@
 # Cookipedia Project
 
-![Cookipedia Logo](https://example.com/cookipedia_logo.png)
+![Cookipedia Logo](cookipedia_logo.png)
 
 This is the complete flow for the Cookipedia project. To try out the project, please follow the steps below:
 
