@@ -7,8 +7,8 @@ Cookipedia is a hackathon project developed during HackPSU, aiming to simplify t
 
 Cookipedia was developed by a team of four talented individuals:
 
-- **Eric F**
 - **Pranav K**
+- **Eric F**
 - **Marmik C**
 - **Vlad K**
 
