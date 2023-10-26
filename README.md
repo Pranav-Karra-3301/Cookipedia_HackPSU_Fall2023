@@ -1,4 +1,4 @@
-![Cookipedia Logo](cookipedia_logo.png)
+![Cookipedia Logo](media/cookipedia_logo.png)
 # Cookipedia
 
 Cookipedia is a hackathon project developed during HackPSU, aiming to simplify the cooking experience by automating recipe suggestions based on images of ingredients. This project combines computer vision, machine learning, and natural language processing to take an image, recognize the ingredients from it, and provide a dish suggestion from a preferred cuisine, complete with a recipe.
@@ -54,4 +54,4 @@ To see Cookipedia in action, please refer to the [demo Markdown file](demo.md). 
 
 For any questions or feedback, please contact one of the team members mentioned above. We hope Cookipedia simplifies your cooking experience and inspires you to try new dishes from around the world!
 
-![Cookipedia Logo](cookipedia_logo.png)
+![Cookipedia Logo](media/cookipedia_logo.png)
