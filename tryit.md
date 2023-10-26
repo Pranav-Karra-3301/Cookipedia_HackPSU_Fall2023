@@ -9,4 +9,4 @@ This is the complete flow for the Cookipedia project. To try out the project, pl
 
 For more information on the Cookipedia project, please contact me [ptk5111@psu.edu]
 
-![Cookipedia Logo](cookipedia_logo.png)
+![Cookipedia Logo](media/cookipedia_logo.png)
